@@ -5,7 +5,7 @@
 * klik kanan pada directory tersebut, pilih git bash /terminalsehingga muncul git bash comand.
 * buat direktory dengan nama latihan1 mkdir latihan1
 * kemudian masuk kedalam directory dengan perintah ( change directory ) cd latihan1
-![image of 1. membuat repository lokal] (gitproject1-Latihan1/1. membuat repository lokal.PNG)
+![github](https://github.com/mukromun311810151/gitproject1-Latihan1/blob/master/1.%20membuat%20repository%20lokal.PNG)
       
 
 jalankan perintah git init
