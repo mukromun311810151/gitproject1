@@ -6,7 +6,7 @@
 * buat direktory dengan nama latihan1 mkdir latihan1
 * kemudian masuk kedalam directory dengan perintah ( change directory ) cd latihan1
 ![image of 1. membuat repository lokal]
-(https://octodex.github.com/images/1. membuat repository lokal.png)
+(https://octodex.github.com/images/1.membuatrepositorylokal.png)
       
 
 jalankan perintah git init
