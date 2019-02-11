@@ -1,4 +1,4 @@
-#TUTORIAL MENGGUNAKAN GIT
+# TUTORIAL MENGGUNAKAN GIT #
 
 *Membuat repository lokal
 *buka directory aktif.
