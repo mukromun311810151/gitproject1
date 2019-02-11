@@ -1,7 +1,7 @@
 # TUTORIAL MENGGUNAKAN GIT #
 
-*Membuat repository lokal
-*buka directory aktif.
+*Membuat repository lokal*
+*buka directory aktif.*
 klik kanan pada directory tersebut, pilih git bash /terminalsehingga muncul git bash comand.
 buat direktory dengan nama latihan1 mkdir latihan1
 kemudian masuk kedalam directory dengan perintah ( change directory ) cd latihan1
